@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cd src
+/usr/bin/lua main.lua
+cd ..
